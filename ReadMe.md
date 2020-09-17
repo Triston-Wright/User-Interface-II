@@ -40,7 +40,6 @@ Once your repository is set up, practice what you learned today to create a port
 - [ ]  A `My Projects` button that links to the projects page
 - [ ]  A `Contact Me` button that links to the contact page
 - [ ]  Links to any social media profiles (Instagram, linkedIn, Twitter) into the footer section of your home page
-
 ### Task 3: Stretch Goals
 
 The following goals are designed to stretch your knowledge and may require additional research beyond what was learned in class today.
