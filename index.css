@@ -69,12 +69,22 @@ footer {
         height: 20rem;
     }
     .button {
-        margin: auto;
+        margin: 0.3rem;
         text-align: center;
+        flex-wrap: wrap;
+    }
+
+    .topHalf .topHalfRight{
+        max-width: 30%;
+    }
+    nav{
+        flex-direction: column;
     }
     h1 {
         text-align: center;
-    }
+    }'
+    
+    
 }
 
 @media (max-width: 500px){
